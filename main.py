@@ -3,7 +3,7 @@ from nextcord.ext import commands
 import cooldowns
 import json
 
-token = "MTE2Nzk1NzQ5ODM4NTQwODExMA.G-X54Q.qnCcfjsiTM04tCcL_ifcX2rbqpExNCQvzOCjYE"
+token = "TOKEN HERE"
 bot = commands.Bot(intents=nc.Intents.all())
 
 extensions = [
