@@ -1,10 +1,10 @@
 [
   {
-    "name": "November DAC Tournament 2023",
-    "link": "https://challonge.com/ey5ijdwb",
-    "date": "11/01/2023 - 11/17/2023",
-    "players": 16,
-    "winner": "<@327653755459862529>",
-    "image_link": "https://media.discordapp.net/attachments/1170368347553136690/1179137366552752279/image.png?ex=6578b03f&is=65663b3f&hm=5eadcc99be03438a9b0ea8ecb631e6646ff08a403c00d5fcd321a00db8f75825&=&format=webp&quality=lossless"
+    "name": "tournament",
+    "link": "link",
+    "date": "01/01/2001",
+    "players": 3485,
+    "winner": "<@winner.id>",
+    "image_link": "image"
   }
 ]
